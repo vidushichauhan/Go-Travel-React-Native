@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For support or general inquiries, please contact us at support@gotravelfrance.com.
+For support or general inquiries, please contact us at vidushic0@gmail.com
 
 ## Acknowledgments
 
